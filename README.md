@@ -6,21 +6,21 @@ Simple Webshop that is divided between customer and employee side. Each employee
 <img src="https://user-images.githubusercontent.com/70106587/220584404-fb5910ef-bd91-42d7-a64e-d1d6b4c8ddbb.png"/>
 
 <h2>Login Page</h2>
-![Snimka zaslona (25)](https://user-images.githubusercontent.com/70106587/220584449-f96e760c-7207-4e34-b524-fa9eda5028f0.png)
+<img src="https://user-images.githubusercontent.com/70106587/220584449-f96e760c-7207-4e34-b524-fa9eda5028f0.png"/>
 
 <h2>Products List</h2>
-![Snimka zaslona (26)](https://user-images.githubusercontent.com/70106587/220584452-88f90032-62a6-4056-9fd1-f93f54335bf4.png)
+<img src="https://user-images.githubusercontent.com/70106587/220584452-88f90032-62a6-4056-9fd1-f93f54335bf4.png"/>
 
 <h2>Customers Cart</h2>
-![Snimka zaslona (27)](https://user-images.githubusercontent.com/70106587/220584442-5c9eb8ee-9ea4-4529-a314-6cde54f1a11b.png)
+<img src="https://user-images.githubusercontent.com/70106587/220584442-5c9eb8ee-9ea4-4529-a314-6cde54f1a11b.png"/>
 
 <h2>Transaction Confirmation</h2>
-![Snimka zaslona (28)](https://user-images.githubusercontent.com/70106587/220584446-3d3f10be-2ee5-4462-a087-fecc9ddb45d8.png)
+<img src="https://user-images.githubusercontent.com/70106587/220584446-3d3f10be-2ee5-4462-a087-fecc9ddb45d8.png"/>
 
 <h2>Customers Profile Page</h2>
-![Snimka zaslona (29)](https://user-images.githubusercontent.com/70106587/220584447-9eb64390-be4a-48bf-b6fd-eab0cc47a883.png)
+<img src="https://user-images.githubusercontent.com/70106587/220584447-9eb64390-be4a-48bf-b6fd-eab0cc47a883.png"/>
 
 <h2>Employees Add Product Page</h2>
-![Snimka zaslona (30)](https://user-images.githubusercontent.com/70106587/220584448-e3a0c491-b400-4a81-95e9-5b8e7b5badd3.png)
+<img src="https://user-images.githubusercontent.com/70106587/220584448-e3a0c491-b400-4a81-95e9-5b8e7b5badd3.png"/>
 
 
