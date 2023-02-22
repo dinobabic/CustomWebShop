@@ -2,6 +2,7 @@
 
 Simple Webshop that is divided between customer and employee side. Each employee has ability to add new products and view all transactions. Customer can view all products, add products to carts, view his carts and execute transactions. Customer can also view his profile, where he can update his personal data, and also see his previous transactions. MySql is used to store all the relevant data.
 
+<h2>Home Screen</h2>
 ![Snimka zaslona (24)](https://user-images.githubusercontent.com/70106587/220584404-fb5910ef-bd91-42d7-a64e-d1d6b4c8ddbb.png)
 
 <h2>Login Page</h2>
@@ -21,4 +22,6 @@ Simple Webshop that is divided between customer and employee side. Each employee
 
 <h2>Employees Add Product Page</h2>
 ![Snimka zaslona (30)](https://user-images.githubusercontent.com/70106587/220584448-e3a0c491-b400-4a81-95e9-5b8e7b5badd3.png)
+
+<img src="https://user-images.githubusercontent.com/70106587/220584404-fb5910ef-bd91-42d7-a64e-d1d6b4c8ddbb.png"/>
 
