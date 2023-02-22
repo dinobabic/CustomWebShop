@@ -1,6 +1,7 @@
 # CustomWebShop
 
 Simple Webshop that is divided between customer and employee side. Each employee has ability to add new products and view all transactions. Customer can view all products, add products to carts, view his carts and execute transactions. Customer can also view his profile, where he can update his personal data, and also see his previous transactions. MySql is used to store all the relevant data.
+<h1>Home Screen</h1>
 ![Snimka zaslona (24)](https://user-images.githubusercontent.com/70106587/220584404-fb5910ef-bd91-42d7-a64e-d1d6b4c8ddbb.png)
 ![Snimka zaslona (27)](https://user-images.githubusercontent.com/70106587/220584442-5c9eb8ee-9ea4-4529-a314-6cde54f1a11b.png)
 ![Snimka zaslona (28)](https://user-images.githubusercontent.com/70106587/220584446-3d3f10be-2ee5-4462-a087-fecc9ddb45d8.png)
