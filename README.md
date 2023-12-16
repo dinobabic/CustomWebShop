@@ -1,6 +1,6 @@
 # CustomWebShop
 
-Simple Webshop that is divided between customer and employee side. Each employee has ability to add new products and view all transactions. Customer can view all products, add products to carts, view his carts and execute transactions. Customer can also view his profile, where he can update his personal data, and also see his previous transactions. MySql is used to store all the relevant data. For the backend side I've used Spring Boog and for the frontend React. React app for this project can be found on master branch.
+I've created a straightforward webshop with distinct interfaces for customers and employees. Employees are empowered with the ability to add new products and access a comprehensive overview of all transactions. On the customer side, users can peruse available products, add items to their carts, review and manage their carts, and complete transactions. Additionally, customers can access their profiles, where they can update personal information and review past transactions. MySQL is used to efficiently store and manage all relevant data. The backend is powered by Spring Boot, while the frontend, accessible on the master branch, is implemented using React. This project has provided a valuable opportunity to leverage the strengths of both technologies for a cohesive and functional webshop experience.
 
 <h2>Home Screen</h2>
 <img src="https://user-images.githubusercontent.com/70106587/220584404-fb5910ef-bd91-42d7-a64e-d1d6b4c8ddbb.png"/>
